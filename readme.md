@@ -15,26 +15,4 @@ Ping me. Let's make tech less boring.
 ]]
 
 
-frame1="  ▄███▄
- ▀████▀
-   ▀█▀"
-
-frame2="  ▄████▄
- ▄██████▄
- ▀▀▀▀▀▀▀"
-
-frame3="  ▄▄████
- ███▀███
- ▀▀▀▀▀▀▀"
-
-while true; do
-    clear
-    echo "$frame1"
-    sleep 0.5
-    clear
-    echo "$frame2"
-    sleep 0.5
-    clear
-    echo "$frame3"
-    sleep 0.5
-done
+![Instagram post](./image.png)
